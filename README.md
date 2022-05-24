@@ -40,13 +40,13 @@ Placement coach - Natalie ( meeting 11.30am Friday 27th May )
   <tr>
     <td>Basic Arithmetic including <code>if</code> and <code>elsif</code> concept</td>
     <td>
-      <a>https://github.com/KevinByrne/maspas/blob/main/challenge2.rb</a>
+      https://github.com/KevinByrne/maspas/blob/main/challenge2.rb
     </td>
   </tr>
   <tr>
     <td>Use of <code>if / elsif</code> and <code>odd? / even?</code>></td>
     <td>
-      <a>https://github.com/KevinByrne/maspas/blob/main/challenge3.rb</a>
+      https://github.com/KevinByrne/maspas/blob/main/challenge3.rb
     </td>
   </tr>
 </table>
