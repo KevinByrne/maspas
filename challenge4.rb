@@ -24,6 +24,8 @@ def grades(num_books, books_read)
   elsif nb >= 10 && br ==  true
     puts "B"
   end
+
+  
 end
 
 grades(9, false) 
@@ -36,5 +38,5 @@ grades(10, true)
 
 puts "======="
 
-grades(21,false)
-grades(21, true)
+
+
