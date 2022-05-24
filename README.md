@@ -34,7 +34,7 @@ Placement coach - Natalie ( meeting 11.30am Friday 27th May )
   <tr>
     <td>Basic Arithmetic</td>
     <td>
-      [Challenge 1](https://github.com/KevinByrne/maspas/blob/main/challenge1.rb)
+      (https://github.com/KevinByrne/maspas/blob/main/challenge1.rb)
     </td>
   </tr>
   <tr>
