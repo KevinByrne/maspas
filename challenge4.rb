@@ -24,14 +24,7 @@ def grades(num_books, books_read)
   elsif nb >= 21
       puts "You have over 20 books, you will get a 'B'"
   end
-=begin
-  if nb >= 10 && br == false
-    puts "C"
-  elsif nb >= 10 && br ==  true
-    puts "B"
-  end
-=end
-end
+
 
 grades(9, false) 
 grades(9, true)
