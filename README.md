@@ -7,9 +7,9 @@
 <li>Meeting with Diana</li>
 <p>Meeting at 10.30am to set objectives.
 <br>
-SG coach - Chelsea
+SG coach - Chelsea (meeting 12.30pm wednesday 1st June )
 <br>
-Technical Coach - Roi
+Technical Coach - Roi (meeting 15.45 Wednesday 25th May )
 <br>
 Placement coach - Natalie ( meeting 11.30am Friday 27th May )
 <br></p>
